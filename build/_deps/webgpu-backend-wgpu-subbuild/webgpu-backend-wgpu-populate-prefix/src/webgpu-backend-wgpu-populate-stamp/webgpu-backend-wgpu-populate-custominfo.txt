@@ -1,0 +1,9 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=custom
+command=cd;/Users/simhab/Documents/Projects/webgpu/build/_deps/webgpu-backend-wgpu-src;&&;git;init;&&;git;fetch;--depth=1;https://github.com/eliemichel/WebGPU-distribution;0ccff38289d39ff0113a69325a33b341a04b43d7;&&;git;reset;--hard;FETCH_HEAD
+source_dir=/Users/simhab/Documents/Projects/webgpu/build/_deps/webgpu-backend-wgpu-src
+work_dir=/Users/simhab/Documents/Projects/webgpu/build/_deps/webgpu-backend-wgpu-subbuild/webgpu-backend-wgpu-populate-prefix/src
+
